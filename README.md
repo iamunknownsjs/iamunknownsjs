@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing and coding
 - 🌱 I’m currently learning Eithcal Hacking
 - 💞️ I’m looking to collaborate on python and Java script
-- 📫 How to reach me findmesjs@gmail.com  
+- 📫 How to reach me
 - 😄 Pronouns: SJS
 - ⚡ Fun fact: Nature lover
 
